@@ -1,17 +1,17 @@
 # Rust-JWT-Warp Implementation
 
-This project is an example of authorization and authentication using json web tokens in Rust using warp framework
-By default the project has two role based users, one is admin and another one is user.
+This project is an example of authorization and authentication using JSON web tokens in Rust using the warp framework
+By default the project has two role-based users, one is the admin and the other one is the user.
 
-## Clonning the repositoy
+## Cloning the repository
 
 run the command
 
-    git clone
+    git clone https://github.com/meetjn/Rust-Warp-Jwt.git
 
 ## Running the project
 
-Run this command on your terminal, it will sucessfully create a hash based token for you
+Run this command on your terminal, it will successfully create a hash-based token for you
 
     cargo run
 
