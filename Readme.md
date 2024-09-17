@@ -7,7 +7,7 @@ By default the project has two role-based users, one is the admin and the other 
 
 run the command
 
-    git clone https://github.com/meetjn/Rust-Warp-Jwt.git
+    git clone https://github.com/meetjn/Rust-Authenticaion-server
 
 ## Running the project
 
